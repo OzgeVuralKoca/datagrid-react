@@ -5,7 +5,7 @@ projeyi indirdikten sonra terminalde `npm install` komutu ile gerekli yükümlü
 ## `npm start`
 
 terminalde `npm start` komutu ile projeyi geliştirici modunda açablirsiniz.
-Projeniz [http://localhost:3000](http://localhost:3000) adresinde açılacaktırç
+Projeniz [http://localhost:3000](http://localhost:3000) adresinde açılacaktır.
 
 ## Projenin kullanımı
 
