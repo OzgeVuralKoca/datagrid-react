@@ -1,0 +1,23 @@
+Projede kullanıcının manuel olarak eklediği sosyal medya bilgilerini alıp bir Datalist aracılığı ile ekranda göstermemiz isteniyor.
+
+    1. Adım: Proje sayfasının bölümleri çıkartıldı
+        -Header,
+            -Logo,
+            -Navbar
+            -Sosyal medya linkleri
+        -Home page
+            -Arama paneli
+            -filtreleme butonu
+            -Hesap ekleme butonu
+            -Datagrid
+    
+    2. Adım: Kullanılacak kütüphaneler eklendi:
+        -devextreme
+        -react-icons
+        -react-modal
+
+    3. Adım: Yukarıdaki sıra ile projenin önce statik kısımları kodlandı
+
+    4. Adım: Arama paneli dinamik hale getirildi
+
+    5. Adım: Dataları modaldan çekme, local storage'a kaydetme ve listede görüntüleme işlemleri yapıldı

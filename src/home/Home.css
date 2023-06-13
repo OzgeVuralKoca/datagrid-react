@@ -1,0 +1,53 @@
+section {
+    margin: 0 20px 20px 20px;
+    background: linear-gradient(180deg, #EFF2FF -30.56%, rgba(232, 236, 255, 0) 135.85%);
+    padding: 30px 60px;
+    border-radius: 6px;
+}
+
+.options {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.dx-datagrid {
+    border-radius: 8px;
+}
+
+.dx-datagrid-table {
+    color: #000;
+    height: 66px;
+}
+
+.dx-row {
+    height: 66px;
+    font-size: 12px;
+    font-weight: 400;
+    overflow: scroll;
+    white-space: nowrap;
+}
+
+.dx-header-row {
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.dx-datagrid-text-content {
+    height: 100%;
+}
+
+.dx-datagrid .dx-row>td {
+    padding: 20px;
+}
+
+.dx-datagrid-rowsview .dx-row-alt>td {
+    background: linear-gradient(180deg, #EFF2FF -30.56%, rgba(232, 236, 255, 0) 135.85%);
+}
+
+@media (max-width: 768px) {
+    .options {
+        flex-direction: column;
+        gap: 10px;
+    }
+}

@@ -1,0 +1,18 @@
+.new-account-button {
+    font-size: 14px;
+    padding: 8px 12px;
+    border-radius: 50px;
+    border: none;
+    background-color: #744bfc;
+    color: #fff;
+    display: flex;
+    gap: 10px;
+}
+
+.new-account-button:hover {
+    background-color: #744bfcbd;
+}
+
+.new-account-button p {
+    margin: auto;
+}
